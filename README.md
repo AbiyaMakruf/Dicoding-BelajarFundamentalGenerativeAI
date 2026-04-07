@@ -7,7 +7,7 @@ Di dalam project ini terdapat dua bagian utama:
 - **Notebook pipeline** untuk mengerjakan eksperimen inti seperti text-to-image, base + refiner, inpainting, automasking, outpainting, dan zoom out.
 - **Aplikasi Streamlit** untuk mendemonstrasikan alur generasi gambar dan editing gambar secara interaktif.
 
-![Penilaian Proyek](README/penilaian_proyek.png)
+![Penilaian Proyek](readme/penilaian_proyek.png)
 
 ## Fitur Utama
 
